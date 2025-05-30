@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Yurei</string>
+    <string name="choose_collections_summary"></string>
+    <string name="donate_error_unknown"></string>
+    <string name="download_location_summary"></string>
+    <string name="license_invalid_content"></string>
+    <string name="license_invalid_content_extra"></string>
+    <string name="license_valid_title"></string>
+    <string name="muzei_not_connected_title"></string>
+    <string name="refresh_only_on_wifi_summary"></string>
+
+</resources>

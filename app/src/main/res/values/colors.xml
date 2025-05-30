@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Light Theme Colors -->
+    <color name="primary">#FFFFFF</color>
+    <color name="primaryDark">#FAFAFA</color>
+    <color name="onPrimary">#000000</color>
+
+    <color name="accent">#A74CFC</color>
+    <color name="onAccent">#FFFFFF</color>
+
+    <color name="surface">#FFFFFF</color>
+    <color name="onSurface">#000000</color>
+    <color name="onSurfaceVariant">#8A000000</color>
+
+    <color name="background">#FAFAFA</color>
+    <color name="onBackground">#000000</color>
+
+    <color name="snackbarBackgroundColor">#1A1A1A</color>
+    <color name="snackbarTextColor">#FFFFFF</color>
+    <color name="snackbarButtonColor">#C583FF</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="darkThemePrimary">#212121</color>
+    <color name="darkThemePrimaryDark">#000000</color>
+    <color name="darkThemeOnPrimary">#FFFFFF</color>
+
+    <color name="darkThemeAccent">#A74CFC</color>
+    <color name="darkThemeOnAccent">#FFFFFF</color>
+
+    <color name="darkThemeSurface">#1A1A1A</color>
+    <color name="darkThemeOnSurface">#FFFFFF</color>
+    <color name="darkThemeOnSurfaceVariant">#B3FFFFFF</color>
+
+    <color name="darkThemeBackground">#101010</color>
+    <color name="darkThemeOnBackground">#FFFFFF</color>
+
+    <color name="darkThemeSnackbarBackgroundColor">#212121</color>
+    <color name="darkThemeSnackbarTextColor">#FFFFFF</color>
+    <color name="darkThemeSnackbarButtonColor">#C583FF</color>
+
+    <!-- Amoled Theme Colors -->
+    <color name="amoledThemePrimary">#000000</color>
+    <color name="amoledThemePrimaryDark">#000000</color>
+    <color name="amoledThemeOnPrimary">#FFFFFF</color>
+
+    <color name="amoledThemeAccent">#A74CFC</color>
+    <color name="amoledThemeOnAccent">#FFFFFF</color>
+
+    <color name="amoledThemeSurface">#121212</color>
+    <color name="amoledThemeOnSurface">#FFFFFF</color>
+    <color name="amoledThemeBackground">#000000</color>
+
+    <color name="amoledThemeOnSurfaceVariant">@color/darkThemeOnSurfaceVariant</color>
+    <color name="amoledThemeOnBackground">@color/darkThemeOnBackground</color>
+
+    <color name="amoledThemeSnackbarBackgroundColor">#121212</color>
+    <color name="amoledThemeSnackbarTextColor">#FFFFFF</color>
+    <color name="amoledThemeSnackbarButtonColor">#C583FF</color>
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
+
+    <string-array name="credits_photos" formatted="false">
+        <item>https://raw.githubusercontent.com/YESWANTH-S/Yurei/gh-pages/assets/profile.png</item>
+        <item>https://raw.githubusercontent.com/YESWANTH-S/Yurei/gh-pages/assets/logo.png</item>
+    </string-array>
+
+    <string-array name="credits_titles">
+        <item>Yeswanth</item>
+        <item>Yurei</item>
+    </string-array>
+
+    <string-array name="credits_descriptions">
+        <item>Creator of Yurei — Full-Stack Developer.</item>
+        <item>Anime-themed KWGT Widgets, Komponents, Wallpapers.</item>
+    </string-array>
+
+    <string-array name="credits_buttons">
+        <item>GitHub</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="credits_links">
+        <item>https://github.com/YESWANTH-S</item>
+        <item></item>
+    </string-array>
+
+
+</resources>
