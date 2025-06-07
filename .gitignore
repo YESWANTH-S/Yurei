@@ -1,0 +1,52 @@
+# Android Studio
+.idea/
+*.iml
+.gradle/
+local.properties
+.DS_Store
+
+# Build output
+build/
+captures/
+app/build/
+
+# APK/AAB outputs
+*.apk
+*.aab
+
+# Logs
+*.log
+
+# OS & Editor junk
+*~
+*.swp
+*.tmp
+*.bak
+
+# Proguard
+proguard/
+
+# Eclipse (if you ever used it)
+.metadata
+*.pydevproject
+.settings/
+.loadpath
+.externalToolBuilders/
+.project
+.classpath
+.cproject
+.buildpath
+
+# Backup, reports and misc
+/reports/
+/report/
+/projectFilesBackup/
+gen/
+app/release/
+
+# Kotlin DSL
+.kotlinc/
+.kotlin/
+
+# Remove old .gradle local files
+.gradle/
